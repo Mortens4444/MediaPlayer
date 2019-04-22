@@ -1,0 +1,17 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="MediaPlayer/MediaPlayer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sound/Mp3/MP3Player.cs">
+    <Files>
+      <File FileName="Sound/Mp3/MP3Player.cs" Line="81" Column="59" />
+      <File FileName="MediaPlayer/WinAPI.cs" Line="43" Column="27" />
+      <File FileName="MediaPlayer/SetWindowPosFlags.cs" Line="1" Column="1" />
+      <File FileName="MediaPlayer/Program.cs" Line="34" Column="41" />
+      <File FileName="MediaPlayer/MainForm.cs" Line="106" Column="27" />
+      <File FileName="MediaPlayer/CmdShow.cs" Line="60" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
